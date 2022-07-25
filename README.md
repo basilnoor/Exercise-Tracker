@@ -10,7 +10,7 @@ Project Goals:
 
 Future Goals:
 - No set goals
-- CSS styling can be improved, but project goal was to get comfortable with MERN applications
+- CSS styling can be improved, but project goal was to get comfortable with a full stack MERN project
 <br />
 <br />
 
