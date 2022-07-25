@@ -27,4 +27,4 @@ Future Goals:
 <img src="https://user-images.githubusercontent.com/51865580/180842349-55ae3bb6-26d2-4bab-8479-4ac084e921d7.png" width="750" height="700"/>
 
 > To remove an exercise click on the 'X' icon
-> <img src="https://user-images.githubusercontent.com/51865580/180844715-17d3010a-0ac8-4cc1-b580-dba7c9d8b0b8.png" width="750" height="700"/>
+<img src="https://user-images.githubusercontent.com/51865580/180844715-17d3010a-0ac8-4cc1-b580-dba7c9d8b0b8.png" width="750" height="700"/>
