@@ -14,6 +14,16 @@ Future Goals:
 <br />
 <br />
 
-![6nv90t](https://user-images.githubusercontent.com/51865580/180841745-7583ae0e-13c1-4d98-9dc5-f460c2950ae8.gif)
 > Example HomePage
 <img src="https://user-images.githubusercontent.com/51865580/180842338-459b3bd5-4f5a-47f6-808c-4e8c7034dd97.png" width="750" height="700"/>
+
+
+> Example Add
+<img src="https://user-images.githubusercontent.com/51865580/180842357-ba0587dd-1fe8-49f4-be89-b229fc38b314.png" width="750" height="700"/>
+
+
+> Example Edit
+> To edit and exercise click on the 'pencil' icon
+<img src="https://user-images.githubusercontent.com/51865580/180842349-55ae3bb6-26d2-4bab-8479-4ac084e921d7.png" width="750" height="700"/>
+
+> To remove an exercise click on the 'X' icon
