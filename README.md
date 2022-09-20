@@ -3,7 +3,7 @@
 
 ### Languages/Frameworks/Tools used:
 
-- Javascript, CSS, React, Express, NodeJs, MongoDB, Visual Studio Code
+- Javascript, CSS, HTML, React, Express, NodeJs, MongoDB, Visual Studio Code
 
 <h3>Project Goals:</h3>
 <ul>
