@@ -7,11 +7,11 @@
 
 <h3>Project Goals:</h3>
 <ul>
-  <li> Full stack MERN application </li>
-  <li> Stores data in MongoDB in a set schema </li>
-  <li> Handles requests via restful API </li>
-  <li> Backend coded using NodeJS/Express </li>
-  <li> Frontend made with react </li>
+  <li> Create a full-stack MERN application </li>
+  <li> Store data in MongoDB as a set schema </li>
+  <li> Handle GET, PULL, RETRIEVE, and DELETE requests via restful API </li>
+  <li> Restful API built using NodeJS/Express </li>
+  <li> Frontend design made with React </li>
 </ul>
 
 <h3> Future Goals: </h3>
