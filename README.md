@@ -1,16 +1,20 @@
 # Exercise Tracker
 
 
-<h1>Project Goals:</h1>
-- Full stack MERN application
-- Stores data in MongoDB in a set schema 
-- Handles requests via restful API
-- Backend coded using NodeJS/Express
-- Frontend made with react
+<h2>Project Goals:</h2>
+<ul>
+  <li> Full stack MERN application </li>
+  <li> Stores data in MongoDB in a set schema </li>
+  <li> Handles requests via restful API </li>
+  <li> Backend coded using NodeJS/Express </li>
+  <li> Frontend made with react </li>
+</ul>
 
-Future Goals:
-- No set goals
-- CSS styling can be improved, but project goal was to get comfortable with a full stack MERN project
+<h2> Future Goals: </h2>
+<ul>
+  <li> No set goals
+  <li> CSS styling can be improved, but project goal was to get comfortable with a full stack MERN project
+</ul>
 <br />
 <br />
 
