@@ -12,8 +12,9 @@
 
 <h3> Future Goals: </h3>
 <ul>
-  <li> No set goals
-  <li> CSS styling can be improved, but project goal was to get comfortable with a full stack MERN project
+  <li> No set goals </li>
+  <li> CSS styling can be improved, but project goal was to get comfortable with a full stack MERN project </li>
+  <li> Host project so that it is always live </li>
 </ul>
 <br />
 <br />
