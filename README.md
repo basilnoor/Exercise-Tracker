@@ -1,7 +1,7 @@
 # Exercise Tracker
 
 
-Project Goals:
+<h1>Project Goals:</h1>
 - Full stack MERN application
 - Stores data in MongoDB in a set schema 
 - Handles requests via restful API
