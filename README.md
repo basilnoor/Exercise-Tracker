@@ -1,7 +1,7 @@
 # Exercise Tracker
 
 
-<h2>Project Goals:</h2>
+<h3>Project Goals:</h3>
 <ul>
   <li> Full stack MERN application </li>
   <li> Stores data in MongoDB in a set schema </li>
@@ -10,7 +10,7 @@
   <li> Frontend made with react </li>
 </ul>
 
-<h2> Future Goals: </h2>
+<h3> Future Goals: </h3>
 <ul>
   <li> No set goals
   <li> CSS styling can be improved, but project goal was to get comfortable with a full stack MERN project
