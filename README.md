@@ -14,7 +14,7 @@
 <ul>
   <li> No set goals </li>
   <li> CSS styling can be improved, but project goal was to get comfortable with a full stack MERN project </li>
-  <li> Host project so that it is always live </li>
+  <li> Host project so that it's always live </li>
 </ul>
 <br />
 <br />
